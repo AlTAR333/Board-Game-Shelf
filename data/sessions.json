@@ -1,0 +1,9 @@
+[
+  { "id": 1, "gameSlug": "catan", "playedAt": "2026-10-03", "players": "Alice, Bruno, Chloé", "winner": "Alice", "notes": "Alice won with the longest road." },
+  { "id": 2, "gameSlug": "catan", "playedAt": "2026-10-24", "players": "Alice, Bruno, David", "winner": "David", "notes": "First win for David." },
+  { "id": 3, "gameSlug": "carcassonne", "playedAt": "2026-10-10", "players": "Bruno, Chloé", "winner": "Chloé", "notes": "Close game, 3 points of difference." },
+  { "id": 4, "gameSlug": "wingspan", "playedAt": "2026-10-17", "players": "Alice, Chloé, David, Emma", "winner": "Emma", "notes": "Emma built a huge egg engine." },
+  { "id": 5, "gameSlug": "azul", "playedAt": "2026-11-01", "players": "Bruno, David", "winner": "Bruno", "notes": "" },
+  { "id": 6, "gameSlug": "codenames", "playedAt": "2026-11-07", "players": "Alice, Bruno, Chloé, David, Emma, Farid", "winner": "Red team", "notes": "The assassin ended the blue team's game." },
+  { "id": 7, "gameSlug": "catan", "playedAt": "2026-11-08", "players": "Alice, Chloé, David", "winner": "Alice", "notes": "" }
+]

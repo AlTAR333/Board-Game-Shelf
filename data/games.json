@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "catan",
+    "title": "Catan",
+    "year": 1995,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minutes": 90,
+    "description": "Settle an island, trade resources and race to build the biggest network of roads and towns.",
+    "rulesSummary": "On your turn, roll two dice: every settlement next to the rolled number produces resources. Trade with other players, then spend resources to build roads, settlements, cities or buy development cards. The first player to reach 10 victory points wins."
+  },
+  {
+    "slug": "carcassonne",
+    "title": "Carcassonne",
+    "year": 2000,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minutes": 45,
+    "description": "Build a medieval landscape tile by tile and place followers to claim roads, cities and fields.",
+    "rulesSummary": "Draw a tile, place it next to the existing map so that edges match, then optionally place one follower on it. Completed roads and cities score points immediately. Remaining features score at the end of the game."
+  },
+  {
+    "slug": "wingspan",
+    "title": "Wingspan",
+    "year": 2019,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minutes": 70,
+    "description": "Attract birds to your wildlife preserves and build engines of food, eggs and cards.",
+    "rulesSummary": "Over four rounds, choose one of four actions each turn: play a bird, gain food, lay eggs or draw cards. Each habitat row triggers the powers of the birds already placed there. Points come from birds, eggs, bonus cards and round goals."
+  },
+  {
+    "slug": "azul",
+    "title": "Azul",
+    "year": 2017,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minutes": 40,
+    "description": "Draft colourful tiles and arrange them on your board to decorate a royal palace wall.",
+    "rulesSummary": "Pick all tiles of one colour from a factory display, and place them on one of your pattern lines. When a line is full, one tile moves to your wall and scores by adjacency. Tiles that do not fit cost penalty points."
+  },
+  {
+    "slug": "ticket-to-ride",
+    "title": "Ticket to Ride",
+    "year": 2004,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minutes": 60,
+    "description": "Collect train cards and claim railway routes to connect cities across the map.",
+    "rulesSummary": "Each turn, either draw train cards, claim a route by playing matching cards, or draw destination tickets. Longer routes score more. Completed destination tickets add points at the end, uncompleted ones subtract points."
+  },
+  {
+    "slug": "codenames",
+    "title": "Codenames",
+    "year": 2015,
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minutes": 20,
+    "description": "Two teams, two spymasters and one-word clues to find your agents before the other team.",
+    "rulesSummary": "Spymasters give a one-word clue and a number to help their team guess the words on the grid. Guessing a word of the other team passes the turn, and touching the assassin loses the game immediately. The first team to find all its agents wins."
+  }
+]
